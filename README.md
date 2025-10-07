@@ -48,7 +48,7 @@ flutter run
 ### Screenshots
 
 ### Home Page
-notes_app/lib/screenshots/home.png
+![Home Screen](lib/screenshots/home.png)
 
 ### Notes List Page
 notes_app/lib/screenshots/mynotes.png
