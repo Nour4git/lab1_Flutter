@@ -1,14 +1,14 @@
-<<<<<<< HEAD
+
 # Flutter Lab 1 - Notes App
 
 A simple note-taking application built with **Flutter**.  
 Allows you to add, edit, and delete notes.
 
----
+
 
 ## 1. Commands needed to create the Flutter project
 
-```bash
+
 # Check if Flutter is installed correctly
 flutter doctor
 
