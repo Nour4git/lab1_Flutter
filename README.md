@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Lab 1 - Notes App
 
 A simple note-taking application built with **Flutter**.  
@@ -68,4 +69,6 @@ notes_app/lib/screenshots/mynote+.png
 
 
 
+=======
+>>>>>>> 675895620220073aa24218f26306e4b46f61e7cc
 
