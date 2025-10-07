@@ -24,7 +24,7 @@ flutter run
 ![Home Screen](lib/screenshots/home.png)
 
 ### Notes List Page
-![Notes list Screen](lib/screenshots/mynote.png)
+![Notes list Screen](lib/screenshots/mynotes.png)
 
 ### Add Note Page
 ![Add notes Screen](lib/screenshots/ddnote.png)
@@ -35,7 +35,7 @@ flutter run
 
 
 ## Clone the repository
-git clone 
+git clone https://github.com/Nour4git/lab1_Flutter.git
 
 
 
