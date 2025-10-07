@@ -14,6 +14,9 @@ flutter doctor
 ## Create the project
 flutter create notes_app
 
+## Navigate to the directory project
+cd notes_app
+
 ## Run the application
 flutter run
 
