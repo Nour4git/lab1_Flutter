@@ -29,7 +29,7 @@ flutter run
 ### Add Note Page
 ![Add notes Screen](lib/screenshots/ddnote.png)
 
-### Edit Note Page
+### Notes list with the new added note
 ![Notes list with the new note Screen](lib/screenshots/mynote+.png)
 
 
