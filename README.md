@@ -21,13 +21,19 @@ flutter create notes_app
 flutter run
 
 
-<img width="960" height="1017" alt="image" src="https://github.com/user-attachments/assets/5264dd19-2f67-4cf2-b977-65a5844ff4e4" />
+### Screenshots
 
-<img width="962" height="1013" alt="image" src="https://github.com/user-attachments/assets/9aaf7363-cb88-44a8-9b79-348f57d3328e" />
+### Home Page
+![Home Screen](lib/screenshots/home.png)
 
-<img width="961" height="1017" alt="image" src="https://github.com/user-attachments/assets/d763208c-22fc-4625-9902-52ada103db54" />
+### Notes List Page
+![Notes Screen](lib/screenshots/mynote.png)
 
-<img width="950" height="1008" alt="image" src="https://github.com/user-attachments/assets/55d8549e-95ed-4b81-872a-8f6fda6385a9" />
+### Add Note Page
+![Add Note](lib/screenshots/ddnote.png)
+
+### Edit Note Page
+![Edit Note](lib/screenshots/mynote+.png)
 
 
 
